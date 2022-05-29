@@ -1,0 +1,60 @@
+
+.mintContainer {
+    padding: 1rem;
+        display: flex;
+        opacity: .9;
+        width: 200px;
+        height: 500px;
+        flex-direction: column;
+        margin-bottom: 2rem;
+        gap: 3rem;
+      
+  }
+  .App {
+    background-color: rgb(12, 12,12);
+  }
+  
+  .btnContainer{
+    background-color: rgb(12, 12,12);
+ 
+  }
+  
+  .collection{
+      color: aliceblue;
+  }
+  .sacollection{
+      color: beige;
+      font-size: small;
+  }
+  
+  .progressBar{
+      width: 300px;
+      margin-top: 3px;
+      margin-left: 18px;
+  }
+  .containerNumberToMint{
+      margin-left: 18px;
+  }
+  
+  .collectionImage {
+    display: block;
+    width: 52px;
+    
+    height: 52px;
+  }
+
+  .nftImage{
+      padding: 3px;
+      height: 300px;
+      width: 300px;
+      position:absolute;
+      margin-left: 0px;
+  }
+
+  .whitepaper{
+      margin-top: -25px;
+  }
+  .brandMenu{
+    margin-top: 1px;
+
+  }

@@ -1,0 +1,25 @@
+.btnMint {
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(58, 63, 169);
+    border: 6px solid rgb(58, 63, 169);
+    padding: 1rem;
+    color: #fff;
+    font-weight: 600;
+  width: 306px;
+  position: relative;
+    cursor: pointer;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 18px;
+  }
+  
+  .btnMinte:hover {
+    color: #fff;
+    border: 6px solid rgb(75, 68, 206);
+    background-color: rgb(75, 68, 206);
+    box-shadow: 5px 5px 20px #010203;
+  }
+  .whiteFooter{
+    color:antiquewhite;
+  }
